@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1626270752 source:c:\users\usuario\downloads\programacion\ejercicios\ej1parcial2\definiciones.c
+	"Declaraciones.h"
+
+1626270299 c:\users\usuario\downloads\programacion\ejercicios\ej1parcial2\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1626270299 source:c:\users\usuario\downloads\programacion\ejercicios\ej1parcial2\main.c
+	"Declaraciones.h"
+
